@@ -18,8 +18,7 @@ Economic analysis\
 Decision support modeling
 
 
-<img width="572" height="313" alt="image" src="https://github.com/user-attachments/assets/51c76047-b43c-4fc7-ab06-878c27b54b36" />\
-
+<img width="644" height="274" alt="image" src="https://github.com/user-attachments/assets/81faa4ec-6ced-4dda-b850-29767b70066c" />
 
 
 # Example 1 : Static Maximum Daily Injection Quantity
@@ -27,9 +26,12 @@ Some fields have a static MDIQ that does not change based on inventory level or 
  \
 Here, you'll be looking to utilize your full MDIQ in the cheapest months and work you way though the pricing stack until your ending inventory is satisfied. 
 
-<img width="553" height="460" alt="image" src="https://github.com/user-attachments/assets/8517ab59-7c2b-46f1-afd2-2f2c4ae16984" />
+<img width="738" height="478" alt="image" src="https://github.com/user-attachments/assets/7e2e2ab0-2181-41af-95d8-6726ad934b62" />
 
-Field A LP Formulation:\
-<img width="519" height="583" alt="image" src="https://github.com/user-attachments/assets/445bca32-3bde-4216-9201-f2bfd4bd12cd" />
+
+Field A LP Formulation:
+
+<img width="595" height="518" alt="image" src="https://github.com/user-attachments/assets/a482a4b3-0da7-4d28-bb76-e65cd247157d" />
+
 
 
